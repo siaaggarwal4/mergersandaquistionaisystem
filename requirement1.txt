@@ -1,0 +1,9 @@
+transformers  
+datasets  
+torch 
+fastapi
+uvicorn[standard]
+python-multipart
+pytesseract
+fitz
+regex
