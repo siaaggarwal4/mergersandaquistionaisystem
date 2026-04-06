@@ -14,9 +14,9 @@ class LegalBert:
     def data_type_labelling(self, data_path="filerdata.csv"):
         self.data = Dataset.from_csv(data_path)
         nums = [typetonum[i["Type"]] for i in self.data]
-        print(nums)
+        # print(nums)
         self.data = self.data.add_column("label", nums)
-        print(self.data[6])
+        # print(self.data[6])
         # self.data.remove_columns("Type")
 
         textch = [self.tokenize(text) for text in self.data]
