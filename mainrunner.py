@@ -3,12 +3,15 @@ from parser import get_text, clean_text
 from extract_clauses import extract_clause
 from risknorms import ris_norms
 
+fh = open("datafile.txt", "w")
 def run_sys(input_file_path, model_path):
     print("got file", input_file_path)
     # print("got model", model_path)
     text = get_text(input_file_path)
     # print(text)
-    # text=clean_text(text)
+    text=clean_text(text)
+    # for line in text:
+    fh.write(text)
     clauses = extract_clause(text)
     # print(clauses)
     classify = LegalBert(model_path)

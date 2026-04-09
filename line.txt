@@ -1,0 +1,1234 @@
+line: 391THE  AGREEMENT  AND  PLAN  OF  MERGER,  dated  as  of  October  29,  2010  (this
+"Agreement"), by and among Tombstone Technologies,  Inc., a Colorado corporation
+("TTI"),  Hunt  Acquisition  Corp.,  a  Colorado  corporation  and  wholly owned
+subsidiary  of TTI  ("Merger  Sub"),  and Hunt Global  Resources,  Inc., a Texas
+corporation ("HGR") is amended in its entirety and replaced hereby:
+
+line: 418WHEREAS, the boards of directors of TTI, Merger Sub and HGR, respectively,  have
+each approved, as being in the best interests of the respective corporations and
+their  stockholders,  a reorganization and the merger (the "Merger") of HGR with
+TTI's Merger Sub, in accordance  with the applicable  provisions of the Colorado
+Business Corporation Act (the "CBCA") and the Texas Business  Organizations Code
+(the "TBOC");
+
+line: 306WHEREAS,  pursuant to the Merger, each outstanding share of common stock, no par
+value,  of HGR ("HGR Common Stock") shall,  in accordance with the provisions of
+this Agreement, be converted into the number of shares of TTI's common stock, no
+par value ("TTI Common Stock"), equal to the Conversion Amount;
+
+line: 217WHEREAS,  for federal income tax purposes,  it is intended that the Merger shall
+qualify as a tax free  reorganization under the provisions of Section 368 of the
+Internal Revenue Code of 1986, as amended (the "Code");
+
+line: 209WHEREAS,  TTI,  Merger  Sub and HGR  desire  to  make  certain  representations,
+warranties,  covenants and agreements in connection  with the Merger and also to
+prescribe various conditions to the Merger; and
+
+line: 112WHEREAS,  this  Agreement is intended to set forth the terms upon which HGR will
+merge with and into Merger Sub;
+
+line: 348NOW,   THEREFORE,   in   consideration  of  the  foregoing  and  the  respective
+representations,  warranties, covenants and agreements set forth herein, and for
+other good and  valuable  consideration  the receipt  and  adequacy of which are
+hereby  acknowledged,  and intending to be legally bound hereby,  the parties do
+hereby agree as follows:
+
+line: 784Subject to the  provisions of this  Agreement,  a  certificate  of merger in the
+forms approved by the parties hereto (the "Certificate of Merger") shall be duly
+prepared, executed and acknowledged in accordance with the CBCA and the TBOC and
+thereafter  delivered  to the  Secretary  of State of the State of Colorado  for
+filing as  provided  in the CBCA and to the  Secretary  of State of the State of
+Texas for filing as  provided  in the TBOC  simultaneously  with the Closing (as
+defined in Section 2.01).  The Merger shall become  effective upon the filing of
+the  Certificate  of Merger with the Secretary of State of the State of Colorado
+and the  Secretary  of State of the State of Texas for filing as provided in the
+CBCA and the TBOC, respectively (the "Effective Time").
+
+line: 685(a) At the  Effective  Time  and by  virtue  of the  Merger,  (i)  the  separate
+corporate  existence  of HGR and Merger Sub shall  cease and HGR shall be merged
+with Merger Sub,  and HGR shall be the  surviving  corporation  (the  "Surviving
+Corporation");  (ii) all of the issued and  outstanding  HGR Common Stock of HGR
+shall be  converted  as  provided  in Section  1.03;  (iii) the  certificate  of
+incorporation of HGR as in effect  immediately prior to the Effective Time shall
+be the certificate of incorporation of the Surviving  Corporation;  and (iv) the
+by laws of HGR as in effect immediately prior to the Effective Time shall be the
+by laws of the Surviving Corporation.
+
+line: 540(b) Without limiting the generality of the foregoing, and subject thereto and to
+any other  applicable  laws, at the Effective Time, all the properties,  rights,
+privileges,  powers  and  franchises  of HGR and  Merger  Sub shall  vest in the
+Surviving  Corporation  (HGR), and, subject to the terms of this Agreement,  all
+debts, liabilities, restrictions,  disabilities and duties of HGR and Merger Sub
+shall become the debts,  liabilities,  restrictions,  disabilities and duties of
+the Surviving Corporation, Hunt Global Resources, Inc.
+
+line: 108As of the Effective  Time, by virtue of the Merger and without any action on the
+part of any holder thereof:
+
+line: 2851(a) Each share of HGR Common  Stock that is issued and  outstanding  immediately
+prior to the  Effective  Time,  other than  shares of HGR Common  Stock that are
+owned  by  shareholders  who  have  not  consented  to the  Merger  and who have
+otherwise  taken all of the steps  required by Subchapter H of Chapter 10 of the
+TBOC to properly exercise and perfect such shareholders' dissenters rights (such
+shares of HGR Common Stock, the "Dissenting  Shares") shall, except as set forth
+below, be converted into that number of shares of TTI Common Stock and shares of
+Class A & B Preferred Stock computed pursuant to the Conversion Amount. All such
+shares  of  HGR  Common  Stock  shall  no  longer  be   outstanding   and  shall
+automatically  be canceled and retired and shall cease to exist, and each holder
+of a  certificate  representing  such shares of HGR Common  Stock shall cease to
+have any rights with respect thereto, except (i) the right to receive the number
+of shares of TTI  Common  Stock to be issued  in  consideration  therefore  upon
+surrender of such certificate in accordance with Section 1.05, without interest,
+or (ii), in the case of Dissenting  Shares,  the right to receive the payment to
+which reference is made in Section 1.04(a).  Notwithstanding the foregoing,  any
+HGR Stockholders  (each, a "Non Certifying HGR Stockholder") who fail to provide
+to HGR prior to the  Effective  Time either (i) the  appropriate  certifications
+and/or  questionnaires that such HGR Stockholder is an "accredited  investor" as
+such  term  is  defined  in Rule  502 of  Regulation  D  promulgated  under  the
+Securities Act of 1933, as amended (the "Securities  Act"), as determined by the
+Surviving Corporation and its counsel, (ii) an executed Purchaser Representative
+Agreement  appointing a "purchaser  representative"  (as such term is defined in
+Rule 501(h) of Regulation D promulgated  under the Securities Act), or (iii) the
+executed  Exchange  Agreement and  Representations  in the form provided by TTI,
+acceptable  to TTI, then such  Non Certifying  HGR  Stockholder(s)  shall not be
+entitled to receive shares of TTI Common Stock pursuant to this Section  1.03(a)
+and in lieu thereof,  shall receive cash in amount equal to the number of shares
+of TTI Common  Stock such HGR  Stockholder  would  have  received  in the Merger
+multiplied by a price per share of TTI Common Stock equal to $0.01. In addition,
+no  fractional  shares  shall be issued  and in the event a HGR  Stockholder  is
+entitled to receive a fractional share in an amount of (i) up to .49 of a share,
+then the number of shares to be issued to such HGR Stockholder  shall be rounded
+down and (ii) .5 of a share or above,  then the  number of shares of TTI  Common
+Stock to be issued to such HGR  Stockholder  shall be rounded up to the  nearest
+whole share; and
+
+line: 392(b) Each  share of capital  stock of Merger  Sub that is issued and  outstanding
+immediately  prior to the Effective Time shall be canceled and be converted into
+one share of common stock of the  Surviving  Corporation,  and each  certificate
+evidencing  ownership of any such shares of Merger Sub shall thereupon  evidence
+ownership of the same number of shares of the Surviving Corporation.
+
+line: 1651(c) Each  outstanding  option and warrant to purchase shares of HGR Common Stock
+(each a "HGR Stock Option and Warrant" and, collectively, "HGR Stock Options and
+Warrants")  whether vested or unvested,  shall be assumed by TTI. Each HGR Stock
+Option and Warrant so assumed by TTI under this Agreement will continue to have,
+and be subject to, the same terms and  conditions  of such HGR Stock  Option and
+Warrant, as the case may be, immediately prior to the Closing (including without
+limitation, any repurchase rights or vesting provisions and provisions regarding
+the acceleration of vesting on certain transactions, other than the transactions
+contemplated  by this  Agreement),  except  that (i) each HGR Stock  Option  and
+Warrant,  as the case may be, will be exercisable (or will become exercisable in
+accordance  with its terms) for that number of whole  shares of TTI Common Stock
+equal to the  product  of the  number of shares of HGR  Common  Stock  that were
+issuable upon exercise of such HGR Stock Option and Warrant, as the case may be,
+immediately prior to the Closing multiplied by the Conversion Amount, rounded up
+to the  nearest  whole  number of shares of TTI Common  Stock,  and (ii) the per
+share  exercise  price for the shares of TTI Common Stock issuable upon exercise
+of such assumed HGR Stock Option and Warrant,  as the case may be, will be equal
+to the  quotient  determined  by dividing  the  exercise  price per share of HGR
+Common Stock at which such HGR Stock Option or Warrant,  as the case may be, was
+exercisable  immediately prior to the Closing by the Conversion Amount,  rounded
+down to the nearest whole cent.
+
+line: 769(a) As promptly as practicable  but in no event later than the 11th calendar day
+following  approval of this Agreement by the  shareholders of HGR, HGR will mail
+to every  shareholder  of record of HGR that did not consent to the  approval of
+this  Agreement,  notice of the fact and date of the approval of this  Agreement
+and the Merger in  accordance  with  Section  6.202(d)  of the TBOC and that the
+shareholder may exercise the  shareholder's  right to dissent from the Merger in
+accordance  with  Subchapter  H of Chapter 10 of the TBOC.  The notice  shall be
+accompanied  by a copy of Subchapter H of Chapter 10 of the TBOC, a copy of this
+Agreement,  and such  additional  information  and  materials  as the  Surviving
+Corporation or TTI may elect to provide.
+
+line: 1154(b) Any holder of shares of HGR Common Stock who perfects such  holder's  rights
+of dissent and appraisal in accordance  with and as contemplated by Subchapter H
+of Chapter 10 of the TBOC shall not receive payment pursuant to Section 1.03 but
+shall  instead be entitled to receive from TTI, the fair value of such shares in
+cash as determined  pursuant to such  provision of the TBOC;  provided,  that no
+such payment shall be made to any dissenting  shareholder  unless and until such
+dissenting  shareholder has complied with the applicable  provisions of the TBOC
+and surrendered to TTI the certificate or certificates  representing  the shares
+for which payment is being made. In the event that a dissenting  shareholder  of
+HGR fails to perfect, or effectively  withdraws or loses, such holder's right to
+dissent  and  receive  payment  for such  holder's  shares,  TTI shall issue and
+deliver the  consideration to which such holder of shares of TTI Common Stock is
+entitled  under this Article I (without  interest) upon surrender by such holder
+of the certificate or certificates  representing  the shares of HGR Common Stock
+held by such holder.
+
+line: 813(c) HGR shall give TTI prompt  notice of any written  demands for  appraisal  or
+payment for shares of HGR Common Stock received by it, attempted  withdrawals of
+such demands and any other  instruments  served  pursuant to applicable law that
+are received by HGR with respect to shareholders'  rights to dissent.  HGR shall
+not, without the prior written consent of TTI, voluntarily make any payment with
+respect to, or settle or offer to settle, any such demands.
+d) TTI shall  control  all  negotiations  and  proceedings  with  respect to any
+demands  for  dissenter's  rights.  TTI  shall  promptly  pay to any  dissenting
+shareholder  any and all amounts due and owing to such holder as a result of any
+settlement or final  determination by any court of competent  jurisdiction  with
+respect to such demands.
+
+line: 1815(a) As soon as  practicable  after the  Effective  Time,  TTI shall mail to each
+participating  and  consenting  HGR  Stockholder  a letter  of  transmittal  and
+instructions  for use in effecting  the surrender of  certificates  representing
+shares of HGR Common Stock  outstanding  immediately prior to the Effective Time
+(the  "Certificates")  in appropriate and customary form with such provisions as
+the board of  directors  of TTI after the Merger may  reasonably  specify.  Upon
+surrender of a Certificate for cancellation to TTI, together with such letter of
+transmittal, duly and properly executed, the holder of such Certificate shall be
+entitled to receive in exchange therefore a certificate representing that number
+of shares of TTI Common Stock as is equal to the product of the number of shares
+of HGR Common Stock represented by the certificate  multiplied by the Conversion
+Amount,  together with any dividends and other distributions payable as provided
+in Section 1.06 hereof,  and the  Certificate so surrendered  shall be canceled.
+Until surrendered as contemplated by this Section 1.05, each Certificate  shall,
+at and after the  Effective  Time,  be  deemed  to  represent  only the right to
+receive, upon surrender of such Certificate, TTI Common Stock as contemplated by
+this Section 1.05, together with any dividends and other  distributions  payable
+as provided in Section 1.06 hereof, and the holders thereof shall have no rights
+whatsoever  as  stockholders  of TTI.  Shares of TTI Common  Stock issued in the
+Merger shall be issued,  and be deemed to be  outstanding,  as of the  Effective
+Time. TTI shall cause all such shares of TTI Common Stock issued pursuant to the
+Merger to be duly authorized,  validly issued, fully paid and non assessable and
+not subject to preemptive rights.
+
+line: 608(b) If any certificate  representing  shares of TTI Common Stock is to be issued
+in a name  other  than that in which the  Certificate  surrendered  in  exchange
+therefore  is  registered,  it shall be a condition  of such  exchange  that the
+Certificate  so surrendered  shall be properly  endorsed and otherwise in proper
+form for transfer and that the person  requesting  such  exchange  shall pay any
+transfer or other taxes required by reason of the issuance of  certificates  for
+such  shares of TTI Common  Stock in a name  other  than that of the  registered
+holder of the Certificate so surrendered.
+
+line: 680(c) In the event any Certificate shall have been lost, stolen or destroyed, upon
+the making of an affidavit of that fact by the person claiming such  Certificate
+to be lost, stolen or destroyed and upon the posting by such person of a bond in
+such amount as TTI may reasonably  direct as an indemnity against any claim that
+may be made  against  it with  respect  to such  Certificate,  TTI will issue in
+respect of such lost,  stolen or destroyed  Certificate one or more certificates
+representing shares of TTI Common Stock as contemplated by this Section 1.05 and
+such person  shall be entitled to the  dividend  and other  distribution  rights
+provided in Section 1.06 hereof.
+
+line: 503(d) If any  Certificates  shall not have been  surrendered  prior to three years
+after the Effective Time (or immediately prior to such earlier date on which any
+payment in respect hereof would otherwise  escheat or become the property of any
+governmental unit or agency), the payment in respect of such Certificates shall,
+to the extent  permitted by applicable law, become the property of the Surviving
+Corporation,  free and clear of all claims or interests of any person previously
+entitled thereto.
+
+line: 665(e) TTI  shall be  entitled  to  deduct  and  withhold  from  the  consideration
+otherwise  payable  pursuant to this  Agreement  to any holder of a  Certificate
+surrendered for shares of TTI Common Stock (and dividends or distributions  with
+respect to TTI Common Stock as  contemplated by Section 1.06 hereof) such amount
+as TTI is required  to deduct and  withhold  with  respect to the making of such
+payment under the Code, or provisions of any state, local or foreign tax law. To
+the extent that amounts are so deducted  and  withheld,  such  amounts  shall be
+treated for all purposes of this  Agreement as having been paid to the holder of
+such Certificate.
+
+line: 1363No dividends or other distributions  declared or made with respect to TTI Common
+Stock  with a record  date on or after the  Effective  Time shall be paid to the
+holder of a Certificate entitled by reason of the Merger to receive certificates
+representing  TTI Common Stock until such holder  surrenders such Certificate as
+provided in Section 1.05 hereof. Upon such surrender, there shall be paid by TTI
+to the person in whose name certificates representing shares of TTI Common Stock
+shall be issued  pursuant to the terms of this  Article I (i) at the time of the
+surrender  of  such   Certificate,   the  amount  of  any  dividends  and  other
+distributions  theretofore  paid with  respect to that number of whole shares of
+such TTI Common Stock  represented by such surrendered  Certificate  pursuant to
+the terms of this Article I, which dividends or other distributions had a record
+date on or after the Effective  Time and a payment date prior to such  surrender
+and (ii) at the  appropriate  payment  date,  the amount of dividends  and other
+distributions  payable with respect to that number of whole shares of TTI Common
+Stock represented by such surrendered  Certificate pursuant to the terms of this
+Article I, which dividends or other distributions have a record date on or after
+the Effective Time and a payment date subsequent to such surrender.
+
+line: 815Subject to applicable law, two directors  designated by HGR immediately prior to
+the Effective Time shall be appointed directors of the Surviving Corporation and
+as directors of TTI and shall hold office until their respective  successors are
+duly elected and qualified,  or their earlier death,  resignation or removal, in
+accordance with  applicable  law,  effective upon and subject to compliance with
+Section 14f of the  Securities  Exchange  Act of 1934 and William  Reilly  shall
+resign as director of TTI.  The  directors  of TTI prior to the  Effective  Time
+shall remain  entitled to  indemnification  for acts and omissions  prior to the
+Effective  Time to the  fullest  extent  permitted  under  Colorado  law and the
+certificate of incorporation  and bylaws of TTI in effect prior to the Effective
+Time.
+
+line: 757The officers of HGR immediately prior to the Effective Time shall be the initial
+executive  officers of the  Surviving  Corporation  and shall hold office  until
+their  respective  successors are duly elected and  qualified,  or their earlier
+death,  resignation  or  removal.  Immediately  after the  Effective  Time,  the
+officers of TTI shall  resign and the officers of HGR  immediately  prior to the
+effective  time shall be  appointed  as the officers of TTI. The officers of TTI
+prior to the Effective Time shall remain  entitled to  indemnification  for acts
+and omissions prior to the Effective Time to the fullest extent  permitted under
+Colorado law and the  certificate of  incorporation  and bylaws of TTI in effect
+prior to the Effective Time.
+
+line: 336Neither TTI nor HGR shall be liable to any holder of shares of HGR Common  Stock
+or TTI Common  Stock,  as the case may be,  for such  shares  (or  dividends  or
+distributions  with  respect  thereto) or cash  delivered  to a public  official
+pursuant to any applicable abandoned property, escheat or similar law.
+ARTICLE II
+THE CLOSING
+
+line: 696Unless this Agreement  shall have been  terminated and the  transactions  herein
+contemplated  shall have been abandoned pursuant to Article VIII, and subject to
+the  satisfaction  or waiver of the  conditions  set forth in Article  VII,  the
+closing of the Merger  (the  "Closing")  shall take place as soon as  reasonably
+practicable  (but in no event on  written  notice of less than two (2)  business
+days) after all of the  conditions set forth in Article VII are satisfied or, to
+the extent permitted  thereunder,  waived, at the offices of Michael A. Littman,
+as may be agreed to in writing by the parties  hereto (the date of such  Closing
+being referred to herein as the "Closing Date").
+
+line: 231Except  as set  forth  in the  applicable  section  of the  disclosure  schedule
+delivered  by TTI to HGR  prior to the  execution  of this  Agreement  (the "TTI
+Disclosure Schedule"), TTI represents and warrants to HGR as follows:
+
+line: 2116TTI is a corporation duly organized, validly existing and in good standing under
+the laws of the State of Colorado.  Merger Sub is a corporation  duly organized,
+validly existing and in good standing under the laws of the State of Texas. Each
+of TTI and Merger sub has all requisite  corporate power and corporate authority
+to enter into the  Transaction  Documents to which it is a party,  to consummate
+the transactions  contemplated hereby and thereby, to own, lease and operate its
+properties  and to conduct its business.  Subject to the receipt of  stockholder
+approval, the execution,  delivery and performance by each of TTI and Merger Sub
+of the Transaction  Documents to which it is a party and the consummation of the
+transactions  contemplated  hereby and thereby have been duly  authorized by all
+necessary corporate action on the part of TTI and Merger Sub, including, without
+limitation  the  approval  of the board of  directors  of TTI.  The  Transaction
+Documents  have been duly  executed and  delivered by each of TTI and Merger Sub
+and,  assuming  that the  Transaction  Documents  constitute a valid and binding
+obligation  of the  other  parties  thereto,  constitute  a  valid  and  binding
+obligation of each of TTI and Merger Sub, enforceable against TTI and Merger Sub
+in accordance  with its terms.  Each of TTI and Merger Sub is duly  qualified or
+licensed to do business as a foreign corporation and is in good standing in each
+jurisdiction in which the property owned, leased or operated by it or the nature
+of the business conducted by it makes such qualification necessary, except where
+the failure to obtain such  qualification or license would not,  individually or
+in the  aggregate,  have a TTI  Material  Adverse  Effect.  TTI  has  heretofore
+delivered  or  made  available  to  HGR  complete  and  correct  copies  of  the
+certificate of incorporation and by laws of TTI and Merger Sub, the minute books
+and stock transfer records of TTI and Merger Sub, as in effect as of the date of
+this Agreement. Neither TTI nor Merger Sub is in violation of its organizational
+documents.
+
+line: 1771The  authorized  capital stock of TTI consists of 1 million  shares of Preferred
+Stock of which none are  outstanding  and shares of TTI Common  Stock,  of which
+4,878,000  shares are  outstanding on the date hereof.  The  authorized  capital
+stock of Merger Sub  consists of 1,000 shares of common  stock,  par value $.001
+per share of which 1,000 shares are issued and  outstanding  on the date hereof.
+No other shares of any other class or series of TTI Common  Stock or  securities
+exercisable  or  convertible  into or  exchangeable  for TTI Common  Stock ("TTI
+Common  Stock   Equivalents")  are  authorized,   issued  or  outstanding.   The
+outstanding  shares of TTI Common  Stock have been duly  authorized  and validly
+issued and are fully paid and nonassessable and were not issued in violation of,
+and are not subject to, any preemptive, subscription or similar rights. To TTI's
+knowledge,  none of the  outstanding  shares of TTI  Common  Stock was issued in
+violation of any Law, including without limitation, federal and state securities
+laws. There are no outstanding warrants, options, subscriptions,  calls, rights,
+agreements,  convertible  or  exchangeable  securities or other  commitments  or
+arrangements  relating to the issuance,  sale,  purchase,  return or redemption,
+and, to TTI'  knowledge,  voting or transfer  of any shares,  whether  issued or
+unissued,  of TTI Common Stock, TTI Common Stock Equivalents or other securities
+of TTI. On the Closing Date,  the shares of TTI Common Stock for which shares of
+HGR Common Stock shall be exchanged in the Merger will have been duly authorized
+and, when issued and delivered in accordance with this Agreement, such shares of
+TTI Common Stock will be validly issued, fully paid and nonassessable.
+
+line: 1295The execution and delivery by TTI of the Transaction Documents does not, and the
+consummation of the transactions  contemplated hereby and thereby and compliance
+with the terms  hereof  and  thereof  will not,  conflict  with or result in any
+violation  of or default  (or an event  which,  with  notice or lapse of time or
+both,  would  constitute  a  default)  under,  (a) the terms and  conditions  or
+provisions  of the  certificate  of  incorporation  or by laws of TTI or any TTI
+Subsidiary,  (b) any Law applicable to TTI or any TTI Subsidiary or the property
+or  assets  of TTI or any TTI  Subsidiary,  or (c)  give  rise to any  right  of
+termination,  cancellation or  acceleration  under, or result in the creation of
+any Lien  upon any of the  properties  of TTI or any TTI  Subsidiary  under  any
+Contract  to which TTI or any TTI  Subsidiary  is a party or by which TTI or any
+TTI Subsidiary or any assets of TTI or any TTI Subsidiary may be bound,  except,
+in the case of clauses (b) and (c), for such  conflicts,  violations or defaults
+which are set forth in Section  3.04 of the TTI  Disclosure  Schedule  and as to
+which requisite waivers or consents will have been obtained prior to the Closing
+or  which,  individually  or in the  aggregate,  would  not have a TTI  Material
+
+line: 263Adverse Effect.  No Governmental  Approval is required to be obtained or made by
+or with respect to TTI or any TTI  Subsidiary in  connection  with the execution
+and delivery of this Agreement or the  consummation  by TTI of the  transactions
+contemplated hereby.
+
+line: 1153(a) There are: (i) no claims,  actions,  suits,  investigations  or  proceedings
+pending  or,  to the  knowledge  of  TTI,  threatened  against,  relating  to or
+affecting  TTI or  the  TTI  Subsidiaries,  the  business,  the  assets,  or any
+employee,  officer, director,  stockholder,  or independent contractor of TTI or
+the TTI  Subsidiaries  in their  capacities  as such,  and (ii) no orders of any
+Governmental   Entity  or  arbitrator   outstanding   against  TTI  or  the  TTI
+Subsidiaries,  the business,  the assets,  or any employee,  officer,  director,
+stockholder,  or independent  contractor of TTI or the TTI Subsidiaries in their
+capacities as such,  or that could  prevent or enjoin,  or delay in any respect,
+consummation of the transactions  contemplated  hereby.  Section 3.12 of the TTI
+Disclosure  Schedule includes a description of all pending or threatened claims,
+actions,  suits,   investigations  or  proceedings  involving  TTI  or  the  TTI
+Subsidiaries,  the business,  the assets,  or any employee,  officer,  director,
+stockholder or independent  contractor of TTI or the TTI  Subsidiaries  in their
+capacities as such.
+
+line: 818(b) TTI and the TTI  Subsidiaries  have  complied and are in  compliance  in all
+material  respects with all Laws  applicable to TTI, any  Subsidiary of TTI, its
+business or its assets. Neither TTI nor the TTI Subsidiaries has received notice
+from any  Governmental  Entity or other Person of any material  violation of Law
+applicable to TTI, any of the TTI Subsidiaries,  their business or their assets.
+TTI and the TTI Subsidiaries  have obtained and hold all required  Licenses (all
+of which are in full force and effect) from all Government  Entities  applicable
+to TTI, the TTI Subsidiaries,  their business or their assets. No violations are
+or have been  recorded  in  respect of any such  License  and no  proceeding  is
+pending,  or, to the  knowledge of TTI,  threatened  to revoke or limit any such
+License.
+
+line: 231Except  as set  forth  in the  applicable  section  of the  disclosure  schedule
+delivered  by HGR to TTI  prior to the  execution  of this  Agreement  (the "HGR
+Disclosure Schedule"), HGR represents and warrants to TTI as follows:
+
+line: 1695HGR is a corporation duly organized, validly existing and in good standing under
+the  laws of the  State of  Texas  and has all  requisite  corporate  power  and
+corporate authority to enter into the Transaction  Documents,  to consummate the
+transactions  contemplated  hereby and  thereby,  to own,  lease and operate its
+properties  and to conduct its business.  Subject to the receipt of  stockholder
+approval  by  HGR,  the  execution,  delivery  and  performance  by  HGR  of the
+Transaction  Documents and the  consummation  of the  transactions  contemplated
+hereby and thereby have been duly authorized by all necessary  corporate  action
+on the part of HGR, including,  without limitation, the approval of the board of
+directors  of HGR.  The  Transaction  Documents  have  been  duly  executed  and
+delivered by HGR and, assuming that the Transaction Documents constitute a valid
+and binding  obligation  of TTI and Merger Sub,  constitute  a valid and binding
+obligation of HGR. HGR is duly qualified or licensed to do business as a foreign
+corporation  and is in good standing in each  jurisdiction in which the property
+owned,  leased or operated by it or the nature of the  business  conducted by it
+makes such  qualification  necessary,  except  where the  failure to obtain such
+qualification or license would not, individually or in the aggregate, have a HGR
+Material Adverse Effect.  HGR has heretofore  delivered or made available to TTI
+complete and correct copies of the articles of incorporation and by laws of HGR,
+the minute books and stock transfer  records of HGR, as in effect as of the date
+of this Agreement. HGR is not in violation of its organizational documents.
+
+line: 558(a) The authorized and outstanding  capital stock of HGR is set forth in Section
+4.02(a) of the HGR  Disclosure  Schedule (the "HGR Capital  Stock").  All of the
+outstanding  shares of the HGR Capital Stock are validly issued,  fully paid and
+non assessable.  To  HGR's  knowledge,  none of the  outstanding  shares  of HGR
+Capital  Stock or other  securities  of HGR was issued in  violation of any Law,
+including,  without limitation,  state and federal securities laws. There are no
+Liens on or with respect to any outstanding shares of HGR Capital Stock.
+
+line: 404(b) Except as listed in Schedule 4.02(b) hereto,  there are no outstanding:  (i)
+securities convertible into or exchangeable for HGR Capital Stock; (ii) options,
+warrants or other  rights to purchase or  subscribe  for HGR Capital  Stock;  or
+(iii) contracts, commitments, agreements,  understandings or arrangements of any
+kind relating to the issuance of any HGR Capital Stock,  any such convertible or
+
+line: 880exchangeable  securities  or any such options,  warrants or rights.  There is no
+outstanding  right,  option  or  other  agreement  of any  kind to  purchase  or
+otherwise to receive from HGR, or any stockholder of HGR, any ownership interest
+in HGR, and there is no  outstanding  right or security of any kind  convertible
+into such ownership  interest.  To HGR's knowledge,  there are no voting trusts,
+proxies or other similar agreements or understandings with respect to the shares
+of HGR Capital Stock. There are no obligations,  contingent or otherwise, of HGR
+to repurchase, redeem or otherwise acquire any shares of HGR Capital Stock or to
+provide  funds  to or  make  any  investment  (in the  form  of a loan,  capital
+contribution or otherwise) in any other Person.  There are no accrued and unpaid
+dividends with respect to any outstanding shares of HGR Capital Stock.
+
+line: 96(c)  Post Merger  shares are to be issued as finder's  fee as listed in Schedule
+4.02(c) hereto.
+
+line: 1554The execution and delivery by HGR of the Transaction Documents does not, and the
+consummation of the transactions  contemplated hereby and thereby and compliance
+with the terms  hereof and  thereof  will not  conflict  with,  or result in any
+violation  of or default  (or an event  which,  with  notice or lapse of time or
+both,  would  constitute  a  default)  under,  (a) the terms and  conditions  or
+provisions  of the  articles of  incorporation  or by laws of HGR,  (b) any Laws
+applicable  to HGR or the  property  or assets  of HGR,  or (c) give rise to any
+right of  termination,  cancellation  or  acceleration  under,  or result in the
+creation of any Lien upon any of the  properties of HGR under,  any Contracts to
+which HGR is a party or by which HGR or any of its assets may be bound,  except,
+in the case of clauses (b) and (c), for such  conflicts,  violations or defaults
+as to which  requisite  waivers or consents will have been obtained prior to the
+Closing  or  which,  individually  or in the  aggregate,  would  not have an HGR
+Material  Adverse  Effect.  Except  as set  forth  in  Section  4.04  of the HGR
+Disclosure Schedule, no Governmental Approval is required to be obtained or made
+by or with respect to HGR or any HGR Subsidiary in connection with the execution
+and delivery of this Agreement or the  consummation  by HGR of the  transactions
+contemplated  hereby,  except  where the  failure  to obtain  such  Governmental
+Approval  would not,  individually  or in the  aggregate,  have an HGR  Material
+Adverse Effect.
+
+line: 1030(a) Except as would not have a HGR Material  Adverse  Effect,  there are: (i) no
+claims,  actions,  suits,  investigations  or  proceedings  pending  or,  to the
+knowledge  of  HGR,  threatened  against,  relating  to or  affecting  HGR,  its
+business,  its assets,  or any  employee,  officer,  director,  stockholder,  or
+independent contractor of HGR in their capacities as such, and (ii) no orders of
+any Governmental Entity or arbitrator are outstanding against HGR, its business,
+its assets,  or any employee,  officer,  director,  stockholder,  or independent
+contractor of HGR in their  capacities as such, or that could prevent or enjoin,
+or delay in any respect,  consummation of the transactions  contemplated hereby.
+Section  4.04 of the HGR  Disclosure  Schedule  includes  a  description  of all
+claims,  actions,  suits,  investigations  or  proceedings  involving  HGR,  its
+business,  its  assets,  or any  employee,  officer,  director,  stockholder  or
+independent contractor of HGR in their capacities as such.
+
+line: 702(b) Except as would not have an HGR Material  Adverse  Effect,  HGR has complied
+and is in compliance in all material  respects with all Laws  applicable to HGR,
+its business or its assets.  HGR has not received  notice from any  Governmental
+Entity or other Person of any material  violation of Law  applicable  to it, its
+business or its assets. HGR has obtained and holds all required Licenses (all of
+which are in full force and effect) from all Government  Entities  applicable to
+it, its  business  or its assets.  No  violations  are or have been  recorded in
+respect of any such License and no proceeding  is pending,  or, to the knowledge
+of HGR threatened to revoke or limit any such License.
+
+line: 728(a) During the period from the date of this Agreement and  continuing  until the
+Effective Time, TTI agrees as to itself and the TTI Subsidiaries, that TTI shall
+not,  and  shall  cause the TTI  Subsidiaries  not to,  engage  in any  business
+whatsoever  other than in connection with the  consummation of the  transactions
+contemplated by this Agreement, and shall use commercially reasonable efforts to
+preserve  intact its business and assets,  maintain its assets in good operating
+condition and repair  (ordinary wear and tear excepted),  retain the services of
+its  officers,   employees  and  independent   contractors  and  use  reasonable
+commercial  efforts  to keep in full force and effect  liability  insurance  and
+
+line: 170bonds  comparable in amount and scope of coverage to that  currently  maintained
+with respect to its business,  unless,  in any case,  HGR consents  otherwise in
+writing.
+
+line: 864(b) During the period from the date of this Agreement and  continuing  until the
+Effective Time, HGR agrees that,  other than in connection with the consummation
+of the transactions  contemplated hereby, it shall carry on its business only in
+the ordinary course of business consistent with past practice,  use commercially
+reasonable efforts to preserve intact its business and assets and use reasonable
+commercial  efforts  to keep in full force and effect  liability  insurance  and
+bonds  comparable in amount and scope of coverage to that  currently  maintained
+with respect to its business,  unless,  in any case,  TTI consents  otherwise in
+writing;  provided  that  HGR may  take  any and all of the  actions  listed  in
+Schedule  5.01(b) of the HGR Disclosure  Schedules at any time prior to or after
+the date of this Agreement without the consent of TTI.
+
+line: 468(c) During the period from the date of this Agreement and  continuing  until the
+Effective  Time,  each of HGR and TTI agrees as to itself and,  with  respect to
+TTI, the TTI Subsidiaries,  respectively,  that except as expressly contemplated
+or permitted  by this  Agreement,  as  disclosed  in Section  5.01(c) of the HGR
+Disclosure  Schedule or the TTI Disclosure  Schedule,  as applicable,  or to the
+extent that the other party shall otherwise consent in writing:
+
+line: 178(i) It  shall  not  amend  or  propose  to  amend  its  certificate  of
+in corporation or by laws or equivalent organizational documents except
+as contemplated in this Agreement.
+
+line: 836(ii) It shall  not,  nor in the case of TTI  shall  it  permit  the TTI
+Subsidiaries to, issue, deliver,  sell, redeem,  acquire,  authorize or
+propose to issue,  deliver,  sell,  redeem,  acquire or authorize,  any
+shares of its capital stock of any class or any securities  convertible
+into, or any rights, warrants or options to acquire, any such shares or
+convertible securities or other ownership interest,  provided that: (1)
+TTI shall be  permitted  to issue the shares of TTI Common  Stock to be
+issued  to HGR  Stockholders  hereunder,  and  (2)each  party  shall be
+permitted to issue shares of its common stock  pursuant to the exercise
+of stock options, warrants and other convertible securities outstanding
+as of the date hereof and listed on the HGR Disclosure  Schedule or the
+TTI Disclosure Schedule, as the case may be.
+
+line: 469(iii) It shall  not,  nor in the case of TTI shall it permit any of the
+TTI Subsidiaries  to, nor shall it propose to: (i) declare,  set aside,
+make or pay any dividend or other distribution, payable in cash, stock,
+property or otherwise, with respect to any of its capital stock or (ii)
+except with respect to the Reverse  Stock Split,  reclassify,  combine,
+split, subdivide or redeem, purchase or otherwise acquire,  directly or
+indirectly, any of its capital stock.
+
+line: 536(iv)  Other  than  dispositions  in the  ordinary  course  of  business
+consistent  with past  practice  which  would not cause a TTI  Material
+Adverse  Effect  or a HGR  Material  Adverse  Effect  (as  applicable),
+individually or in the aggregate, to it and its subsidiaries,  taken as
+a whole, it shall not, nor shall it permit any of its  subsidiaries to,
+sell, lease,  encumber or otherwise dispose of, or agree to sell, lease
+(whether  such lease is an  operating  or capital  lease),  encumber or
+otherwise dispose of its assets.
+
+line: 336(v) It shall  promptly  advise the other party hereto in writing of any
+change  in  the  condition  (financial  or  otherwise),  operations  or
+properties,  businesses  or business  prospects of such party or any of
+its subsidiaries which would result in a TTI Material Adverse Effect or
+HGR Material Adverse Effect, as the case may be.
+
+line: 1430(vi) It  shall  not  permit  to  occur  any (1)  change  in  accounting
+principles, methods or practices, investment practices, claims, payment
+and   processing   practices   or   policies   regarding   intercompany
+transactions,  (2)incurrence of Indebtedness or any commitment to incur
+Indebtedness,  any  incurrence  of a contingent  liability,  Contingent
+Obligation or other liability of any type,  except for, with respect to
+HGR, other than obligations  related to the acquisition of Inventory in
+the ordinary course of business  consistent  with past  practices,  (3)
+cancellation of any debt or waiver or release of any contract, right or
+claim,  except for cancellations,  waivers and releases in the ordinary
+course  of  business  consistent  with its past  practice  which do not
+exceed  $50,000  in  the  aggregate,  (4)  amendment,   termination  or
+revocation of, or a failure to perform obligations or the occurrence of
+any default under,  (Y) any contract or agreement  (including,  without
+limitation,  leases) to which it is or, as of December 31, 2009,  was a
+party,  other than in the ordinary  course of business  consistent with
+past  practice,  or (Z) any  License,  (5)  execution  of  termination,
+severance or similar  agreements  with any of its officers,  directors,
+employees,  agents or independent  contractors or (6) entering into any
+leases of real property or agreement to acquire real property.
+
+line: 515During the  period  from the date of this  Agreement  and  continuing  until the
+Effective  Time,  each of HGR and TTI agrees as to itself and,  with  respect to
+TTI, the TTI  Subsidiaries,  respectively,  that it shall not, and TTI shall not
+permit  any of the TTI  Subsidiaries  to,  take or agree or  commit  to take any
+action,  (i) that is  reasonably  likely to make any of its  representations  or
+warranties  hereunder  inaccurate;  or (ii) that is  prohibited  pursuant to the
+provisions of this Article V.
+
+line: 331HGR agrees that as promptly as practicable  following the date of this Agreement
+it shall  prepare a notice  to  stockholders  describing  the  Merger  (the "HGR
+Notice"). HGR shall use commercially  reasonable efforts to cause the HGR Notice
+to be mailed to its stockholders at the earliest practicable date following such
+filing.
+
+line: 1958From the date hereof until the Effective Time or the earlier termination of this
+Agreement,  each party  shall give the other party and its  respective  counsel,
+accountants,  representatives and agents full access, upon reasonable notice and
+during normal  business  hours,  to such party's  facilities  and the financial,
+legal,  accounting and other representatives of such party with knowledge of the
+business  and the assets of such party and,  upon  reasonable  notice,  shall be
+furnished all relevant documents,  records and other information  concerning the
+business,  finances and properties of such party and its  subsidiaries  that the
+other party and its respective counsel, accountants, representatives and agents,
+may reasonably  request.  No  investigation  pursuant to this Section 6.02 shall
+affect or be deemed to modify any of the representations or warranties hereunder
+or the condition to the obligations of the parties to consummate the Merger;  it
+being  understood  that the  investigation  will be made for the purposes  among
+others of the board of  directors  of each party  determining  in its good faith
+reasonable  business judgment the accuracy of the representations and warranties
+of the other party.  In the event of the  termination  of this  Agreement,  each
+party, if so requested by the other party, will return or destroy promptly every
+document  furnished to it by or on behalf of the other party in connection  with
+the transactions  contemplated  hereby,  whether so obtained before or after the
+execution  of this  Agreement,  and any  copies  thereof  (except  for copies of
+documents publicly  available) which may have been made, and will use reasonable
+efforts  to cause  its  representatives  and any  representatives  of  financial
+institutions  and investors  and others to whom such  documents  were  furnished
+promptly to return or destroy such  documents and any copies thereof any of them
+may have made.
+
+line: 1810From the date hereof until the Effective Time or the earlier termination of this
+Agreement,  neither HGR nor TTI shall, nor shall they authorize or permit any of
+their  respective  officers,  directors  or  employees  or  Subsidiaries  or any
+investment   banker,   financial   advisor,   attorney,   accountant   or  other
+representative  retained by it to, solicit,  initiate or encourage (including by
+way of  furnishing  information),  or take any other action to  facilitate,  any
+inquiries or the making of any proposal which constitutes,  or may reasonably be
+expected  to lead  to,  any  Takeover  Proposal  (as  hereinafter  defined),  or
+negotiate with respect to, agree to or endorse any Takeover  Proposal (except in
+any case if the board of  directors  or special  committee of TTI or HGR, as the
+case may be,  determines  in good faith,  based upon the written  opinion of its
+outside legal  counsel,  that the failure to do so would  constitute a breach of
+the  fiduciary  duties  of the  TTI' or  HGR's  board of  directors  or  special
+committee,  as the case may be, to its  stockholders  under applicable law). HGR
+shall promptly advise TTI and TTI shall promptly advise HGR, as the case may be,
+orally and in writing of any such inquiries or proposals and shall also promptly
+advise TTI or HGR, as the case may be, of any developments or changes  regarding
+such inquiries or proposals. HGR and TTI shall immediately cease and cause to be
+terminated any existing discussions or negotiations with any persons (other than
+HGR,  TTI and Merger Sub)  conducted  heretofore  with  respect to any  Takeover
+Proposal.  HGR and TTI agree not to release (by waiver or  otherwise)  any third
+party from the  provisions of any  confidentiality  or  standstill  agreement to
+which HGR or TTI is a party.
+
+line: 404Each of HGR, TTI and Merger Sub shall take all reasonable  actions  necessary to
+comply promptly with all legal  requirements which may be imposed on itself with
+respect to the Merger and will promptly  cooperate with and furnish  information
+to each other in connection with any such requirements  imposed upon any of them
+or any of their Subsidiaries in connection with the Merger. Each of HGR, TTI and
+
+line: 496Merger Sub will, and TTI will cause the TTI Subsidiaries to, take all reasonable
+actions  necessary to obtain (and will  cooperate  with each other in obtaining)
+any  consent,  authorization,  order or approval  of, or any  exemption  by, any
+Governmental  Entity or other  public or private  third  party,  required  to be
+obtained or made by HGR, TTI or any of the TTI  Subsidiaries  in connection with
+the  Merger  or the  taking  of  any  action  contemplated  thereby  or by  this
+Agreement.
+
+line: 988Each party shall cooperate with the other in (a) connection with the preparation
+of an 8 K,  (b)  determining  whether  any action by or in respect of, or filing
+with, any governmental body, agency,  official or authority is required,  or any
+actions, consents, approvals or waivers are required to be obtained from parties
+to  any  material  contracts,   in  connection  with  the  consummation  of  the
+transactions  contemplated  by this  Agreement and (c) seeking any such actions,
+consents,   approvals  or  waivers  or  making  any  such  filings,   furnishing
+information  required in connection therewith or with the 8 K and seeking timely
+to obtain any such  actions,  consents,  approvals or waivers.  Each party shall
+consult  with the  other in  connection  with the  foregoing  and  shall use all
+reasonable  commercial efforts to take any steps as may be necessary in order to
+obtain any consents, approvals, permits or authorizations required in connection
+with the Merger.
+
+line: 357Each party shall give the other a reasonable  opportunity to comment upon,  and,
+unless  disclosure is required,  in the opinion of counsel,  by applicable  law,
+approve (which approval shall not be unreasonably withheld),  all press releases
+or other public  communications  of any sort  relating to this  Agreement or the
+transactions contemplated hereby.
+
+line: 370TTI and HGR shall each report the Merger as a tax free  reorganization and shall
+not take, and shall use commercially  reasonable efforts to prevent any of their
+respective  Subsidiaries  or  affiliates  from  taking,  any actions  that could
+prevent the Merger from qualifying,  as tax free under the provisions of Section
+351 of the Code or Section 368(a) of the Code.
+
+line: 510(a) HGR shall  prepare and file on a timely basis all Tax Returns  which are due
+to be filed with respect to HGR (giving  effect to any extension of time) within
+60 days after the Closing Date. TTI shall be responsible for the preparation and
+filing  of all Tax  Returns  which  are due to be filed  (giving  effect  to any
+extension of time after the Closing Date,  but HGR shall use its best efforts to
+conduct its affairs  such that any Tax Returns due after the Closing Date can be
+filed on a timely basis.
+
+line: 722(b) From the date hereof until the Effective Time or the earlier  termination of
+this  Agreement,  without  the prior  written  consent of the other  party or if
+required in the opinion of counsel, neither TTI nor HGR shall make or change any
+election,  change an annual  accounting  period,  adopt or change any accounting
+method,  file any amended Tax Return,  enter into any closing agreement,  settle
+any Tax  claim or  assessment  relating  to it,  surrender  any right to claim a
+refund of Taxes,  consent to any  extension or waiver of the  limitation  period
+applicable  to any Tax  claim or  assessment  relating  to it, or take any other
+action relating to the filing of any Tax Return or the payment of any Tax.
+
+line: 1061Prior to the Closing,  HGR will supplement or amend its disclosure schedule with
+respect to any matter  hereafter  arising which, if existing or occurring at the
+date of this Agreement, would have been required to be set forth or described in
+such  disclosure  schedule.  No  supplement  to or amendment  of the  disclosure
+schedule  made  pursuant to this Section 6.09 shall be deemed to cure any breach
+of any  representation  or  warranty  made in this  Agreement  unless  the other
+parties hereto specifically agree thereto in writing.  Prior to the Closing, TTI
+may  supplement  or amend its  disclosure  schedule  with  respect to any matter
+which, if existing or occurring at the date of this  Agreement,  would have been
+required to be set forth or described in such disclosure schedule. No supplement
+to or amendment of the  disclosure  schedule  made pursuant to this Section 6.09
+shall be deemed to cure any breach of any  representation  or  warranty  made in
+this  Agreement  unless the other parties hereto  specifically  agree thereto in
+writing.
+
+line: 316The  respective  obligations  of each  party to effect  the Merger and the other
+transactions  contemplated  herein  shall be subject to the  satisfaction  at or
+prior to the Effective Time of the following conditions, any or all of which may
+be waived, in whole or in part to the extent permitted by applicable law:
+
+line: 297(a) Stockholder Approval. This Agreement shall have been duly adopted and joined
+pursuant to an  Exchange  Agreement  (Exhibit A hereto) by the holders  of(i) at
+least 90% of the outstanding  shares of HGR Common Stock; and (ii) a majority of
+the outstanding shares of capital stock of Merger Sub.
+
+line: 627(b) No  Injunctions  or  Restraints.  No  governmental  authority  of  competent
+jurisdiction shall have enacted,  issued,  promulgated,  enforced or entered any
+statute,  rule, regulation,  execution order, decree,  injunction or other order
+(whether  temporary,  preliminary  or  permanent)  which is in effect  and which
+materially  restricts,  prevents or prohibits  consummation of the Merger or any
+transaction contemplated by this Agreement;  provided, however, that the parties
+shall  use  their  reasonable  commercial  efforts  to cause  any  such  decree,
+judgment, injunction or other order to be vacated or lifted.
+
+line: 257The  obligations  of TTI and  Merger  Sub to  effect  the  Merger  and the other
+transactions contemplated by this Agreement are also subject to the satisfaction
+at or prior to the Closing Date of the following  additional  conditions  unless
+waived by TTI:
+
+line: 446(a)  Representations  and Warranties.  The representations and warranties of HGR
+set forth in this Agreement  shall be true and correct in all material  respects
+(except for those representations and warranties qualified by materiality, which
+shall be true and correct in all respects) as of the date of this  Agreement and
+as of the Closing Date as though made on and as of the Closing  Date,  except as
+otherwise contemplated by this Agreement.
+
+line: 231(b)  Performance of Obligations of HGR. HGR shall have performed in all material
+respects all conditions,  covenants,  agreements and obligations  required to be
+performed by it under this Agreement at or prior to the Closing Date.
+
+line: 190(c) No  Material  Adverse  Change  to HGR.  From the  date  hereof  through  and
+including  the Effective  Time, no event shall have occurred  which would have a
+HGR Material Adverse Effect.
+
+line: 357(d) Third Party  Consents.  HGR shall have obtained all consents and  approvals,
+required to be obtained  prior to or at the Closing Date,  from third parties or
+governmental  and  regulatory  authorities  in  connection  with the  execution,
+delivery and  performance by HGR of this Agreement and the  consummation  of the
+transactions contemplated hereby.
+
+line: 436(e) No  Governmental  Order or Other  Proceeding or Litigation.  No order of any
+Governmental  Entity  shall  be  in  effect  that  restrains  or  prohibits  the
+transactions  contemplated hereby and by the other Transaction Documents, and no
+suit,  action or other  proceeding  by any  Governmental  Entity shall have been
+instituted  or threatened  which seeks to restrain or prohibit the  transactions
+contemplated hereby or thereby.
+
+line: 290(f) Dissenters' Rights.  Holders of not more than 10% of the aggregate number of
+shares of HGR Common Stock shall have elected to exercise any  appraisal  rights
+or similar  rights  within the law of the State of Texas,  which  demand was not
+withdrawn or terminated as of the Closing Date.
+
+line: 207(g) Financial Statements.  HGR shall have delivered audited financial statements
+for HGR for period from inception to 12/31/2009  prepared in accordance with SEC
+Rules and Regulations, GAAP, and PCAOB Rules.
+
+line: 229(i) a certificate,  dated the Closing Date,  signed on behalf of HGR by
+the Chief Executive Officer of HGR, certifying as to the fulfillment of
+the  conditions  specified  in  subsections  (a),  (b)  and (c) of this
+Section 7.02;
+
+line: 81(ii) the  consents  set forth in  Section  4.04 of  the HGR  Disclosure
+Schedule;
+
+line: 143(iii)  true,  correct and  complete  copies of (1) the  certificate  of
+incorporation  or other charter  document,  as amended to date, of HGR,
+
+line: 784certified  as of a  recent  date by the  Secretary  of  State  or other
+appropriate   official   of  the   state  or  other   jurisdiction   of
+incorporation  of HGR, (2) the by laws or other similar  organizational
+document of HGR, and (3)  resolutions  duly and validly  adopted by the
+Board  of  Directors  and  the   stockholders  of  HGR  evidencing  the
+authorization  of the  execution  and delivery of this  Agreement,  the
+other Transaction Documents to which it is a party and the consummation
+of the  transactions  contemplated  hereby and  thereby,  in each case,
+accompanied by a certificate of the Secretary or Assistant Secretary of
+HGR, dated as of the Closing Date, stating that no amendments have been
+made thereto from the date thereof through the Closing Date; and
+
+line: 463(iv) good standing  certificates for HGR from the Secretary of State or
+other  appropriate   official  of  their  respective  states  or  other
+jurisdiction of incorporation  and from the Secretary of State or other
+appropriate  official of each other jurisdiction in which the operation
+of the  business  in such  jurisdiction  requires  HGR to qualify to do
+business  as a foreign  corporation,  in each case dated as of a recent
+date prior to the Closing Date;
+
+line: 242The  obligation  of  HGR  to  effect  the  Merger  and  the  other  transactions
+contemplated  by this Agreement is also subject to the  satisfaction at or prior
+to the Closing Date of the following additional conditions unless waived by HGR:
+
+line: 420(a)  Representations  and Warranties.  The representations and warranties of TTI
+and  Merger  Sub set forth in this  Agreement  shall be true and  correct in all
+material respects (except for those  representations and warranties qualified by
+materiality)  as of the date of this  Agreement  and as of the  Closing  Date as
+though made on and as of the Closing Date,  except as otherwise  contemplated by
+this Agreement.
+
+line: 269(b)  Performance  of Obligations of TTI and Merger Sub. TTI and Merger Sub shall
+have performed in all material  respects all conditions,  covenants,  agreements
+and  obligations  required to be  performed  by them under this  Agreement at or
+prior to the Closing Date.
+
+line: 203(c) No  Material  Adverse  Change to TTI or  Merger  Sub.  From the date  hereof
+through and  including the  Effective  Time, no event shall have occurred  which
+would have a TTI Material Adverse Effect.
+
+line: 357(d) Third Party  Consents.  TTI shall have  obtained all consents and  approvals
+required to be obtained  prior to or at the Closing  Date from third  parties or
+governmental  and  regulatory  authorities  in  connection  with the  execution,
+delivery and  performance by TTI of this Agreement and the  consummation  of the
+transactions contemplated hereby.
+
+line: 436(e) No  Governmental  Order or Other  Proceeding or Litigation.  No order of any
+Governmental  Entity  shall  be  in  effect  that  restrains  or  prohibits  the
+transactions  contemplated hereby and by the other Transaction Documents, and no
+suit,  action or other  proceeding  by any  Governmental  Entity shall have been
+instituted  or threatened  which seeks to restrain or prohibit the  transactions
+contemplated hereby or thereby.
+
+line: 266(i)  certificates,  dated the Closing Date, signed on behalf of each of
+TTI  and  Merger  Sub by the  President  of  each  of TTI  and  Merger,
+certifying  as to  the  fulfillment  of  the  conditions  specified  in
+subsections (a), (b) and (c) of this Section 7.03;
+
+line: 81(ii) the  consents set  forth in  Section 3.04  of  the  TTI Disclosure
+Schedule;
+
+line: 965(iii)  true,  correct and  complete  copies of (1) the  certificate  of
+incorporation or other charter document, as amended to date, of each of
+TTI and Merger Sub,  certified as of a recent date by the  Secretary of
+State or other appropriate  official of the state or other jurisdiction
+of  incorporation  of such  company,  (2) the by laws or other  similar
+organizational  document  of  each  of TTI  and  Merger  Sub,  and  (3)
+resolutions  duly and validly adopted by the Board of Directors of each
+of TTI and Merger Sub evidencing the authorization of the execution and
+delivery of this Agreement, the other Transaction Documents to which it
+is a party and the consummation of the transactions contemplated hereby
+and  thereby,  in  each  case,  accompanied  by a  certificate  of  the
+Secretary of each of TTI and Merger Sub,  dated as of the Closing Date,
+stating that no amendments have been made thereto from the date thereof
+through the Closing Date; and
+
+line: 287(iv)  good  standing  certificates  for TTI and  Merger  Sub  from  the
+Secretary of State or other  appropriate  official of their  respective
+states or other jurisdiction of incorporation and from the Secretary of
+State or other appropriate official of each other jurisdiction in which
+
+line: 187the  operation  of the  business in such  jurisdiction  requires TTI to
+qualify to do business as a foreign corporation,  in each case dated as
+of a recent date prior to the Closing Date.
+
+line: 107This Agreement may be terminated at any time prior to the Effective Time, by TTI
+or HGR as set forth below:
+
+line: 389(b) by TTI upon  written  notice to HGR,  if: (A) any  condition to the
+obligation of TTI to close contained in Article VII hereof has not been
+satisfied by April 1, 2010 (the "End Date") (unless such failure is the
+result  of  TTI's  breach  of any of its  representations,  warranties,
+covenants or agreements  contained  herein) or (B) the TTI stockholders
+do not approve the Merger; or
+
+line: 382(c) by HGR upon  written  notice to TTI,  if: (A) any  condition to the
+obligation of HGR to close contained in Article VII hereof has not been
+satisfied  by the End Date  (unless such failure is the result of HGR's
+breach  of  any  of  its  representations,   warranties,  covenants  or
+agreements  contained  herein);  or (B)  the  HGR  stockholders  do not
+approve the Merger; or
+
+line: 367(d) by TTI if the  board  of  directors  or  special  committee  of TTI
+determines in good faith, based upon the written opinion of its outside
+legal  counsel,  that the failure to  terminate  this  Agreement  would
+constitute  a  breach  of the  fiduciary  duties  of the TTI  board  of
+directors or special committee to the TTI stockholders under applicable
+law; or
+
+line: 364(e) by HGR if the  board  of  directors  or  special  committee  of HGR
+determines in good faith, based upon the written opinion of its outside
+legal  counsel,  that the failure to  terminate  this  Agreement  would
+constitute  a  breach  of the  fiduciary  duties  of the HGR  board  of
+directors or special committee to the HGR stockholders under applicable
+law.
+
+line: 398Whether or not the Merger is  consummated,  all costs and  expenses  incurred in
+connection with this Agreement and the transactions contemplated hereby shall be
+paid by the party incurring such expense, and, in connection therewith,  each of
+TTI and HGR shall  pay,  with its own funds and not with funds  provided  by the
+other party, any and all property or transfer taxes imposed on such party.
+
+line: 413None of the  representations  and  warranties  of the  parties set forth in this
+Agreement shall survive the Closing.  Following the Closing Date with respect to
+any  particular  representation  or  warranty,  no party  hereto  shall have any
+further liability with respect to such representation and warranty.  None of the
+covenants,  agreements  and  obligations of the parties hereto shall survive the
+Closing.
+
+line: 636All notices,  requests and other  communications to any party hereunder shall be
+in writing  (including  telecopy,  telex  facsimile,  email,  FTP (File Transfer
+Protocal)  or similar  writing) and shall be deemed given or made as of the date
+delivered,  if delivered  personally or by telecopy  (provided  that delivery by
+telecopy shall be followed by delivery of an additional copy personally, by mail
+or overnight  courier),  one day after being  delivered by overnight  courier or
+three days after being mailed by registered or certified mail (postage  prepaid,
+return receipt requested), to the parties at the following addresses:
+
+line: 196with a copy to  (which  shall not  constitute  notice):  or such  other
+address or telex or telecopy number as such party may hereafter specify
+for the purpose by notice to the other party hereto.
+
+line: 226This Agreement may be amended, modified or supplemented, and waivers or consents
+to departures  from the provisions  hereof may be given,  provided that the same
+are in writing and signed by or on behalf of the parties hereto.
+
+line: 331The provisions of this Agreement  shall be binding upon and inure to the benefit
+of the parties hereto and their respective successors and assigns, provided that
+no party shall  assign,  delegate  or  otherwise  transfer  any of its rights or
+obligations  under this Agreement without the written consent of the other party
+hereto.
+
+line: 152This Agreement  shall be construed in accordance with and governed by the law of
+the State of Colorado without regard to principles of conflict of laws.
+
+line: 195Each party hereto hereby irrevocably and unconditionally  waives any rights to a
+trial by jury in any legal action or  proceeding  in relation to this  Agreement
+and for any counterclaim therein.
+
+line: 720Each of the  Parties  hereby  irrevocably  and  unconditionally  submits  to the
+exclusive  jurisdiction  of any court of the State of  Colorado  or any  federal
+court sitting in Colorado for purposes of any suit,  action or other  proceeding
+arising out of this Agreement and the  Transaction  Documents (and agrees not to
+commence any action,  suit or proceedings  relating  hereto or thereto except in
+such courts).  Each of the Parties agrees that service of any process,  summons,
+notice or  document  pursuant  to the laws of the State of  Colorado  and on the
+individuals  designated in Section  10.01 shall be effective  service of process
+for any action, suit or proceeding brought against it in any such court.
+
+line: 401Facsimile  or email  transmissions  of any  executed  original  document  and/or
+retransmission of any executed facsimile  transmission shall be deemed to be the
+same as the delivery of an executed  original.  This  Agreement may be signed in
+any number of  counterparts,  each of which shall be an original,  with the same
+effect as if the signatures thereto and hereto were upon the same instrument.
+
+line: 91SECTION  10.08.  ENTIRE  AGREEMENT;  NO THIRD  PARTY  BENEFICIARIES;  RIGHTS  OF
+OWNERSHIP.
+
+line: 675Except as expressly provided herein, this Agreement (including the documents and
+the  instruments  referred  to  herein)  constitute  the  entire  agreement  and
+supersede all prior agreements and understandings,  both written and oral, among
+the parties  with  respect to the subject  matter  hereof.  Except as  expressly
+provided herein,  this Agreement is not intended to confer upon any person other
+than the parties  hereto any rights or remedies  hereunder.  The parties  hereby
+acknowledge that no person shall have the right to acquire or shall be deemed to
+have acquired  shares of common stock of the other party  pursuant to the Merger
+until consummation thereof.
+
+line: 157The headings  contained in this  Agreement are for  reference  purposes only and
+shall not in any way affect the meaning or interpretation of this Agreement.
+
+line: 473The parties hereto have participated  jointly in the negotiation and drafting of
+this   Agreement.   In  the  event  an   ambiguity  or  question  of  intent  or
+interpretation  arises under any  provision of this  Agreement,  this  Agreement
+shall  be  construed  as if  drafted  jointly  by the  parties  thereto,  and no
+presumption or burden of proof shall arise favoring or disfavoring  any party by
+virtue of the authorship of any of the provisions of this Agreement.
+
+line: 334If any  term or  other  provision  of this  Agreement  is  invalid,  illegal  or
+unenforceable, all other provisions of this Agreement shall remain in full force
+and  effect  so long as the  economic  or legal  substance  of the  transactions
+contemplated  hereby is not affected in a manner that is  materially  adverse to
+any party.
+
+line: 560ARTICLE XI
+DEFINITIONS
+"Affiliate"  shall mean (a) with  respect to an  individual,  any member of such
+individual's family including lineal ancestors and descendents; (b) with respect
+to an entity, any officer, director, stockholder,  partner, manager, investor or
+holder of an ownership  interest of or in such entity or of or in any  Affiliate
+of such entity;  and (c) with respect to a Person,  any Person which directly or
+indirectly,  through one or more intermediaries,  controls, is controlled by, or
+is under common control with such Person or entity.
+
+line: 91"HGR  Capital  Stock"  shall have the meaning set forth in Section  4.02 of this
+Agreement.
+
+line: 668"HGR Common  Stock"  shall have the  meaning  set forth in the  recitals to this
+Agreement.  "HGR  Material  Adverse  Effect"  shall  mean an  event  or  change,
+individually  or in the  aggregate  with  other  events or  changes,  that could
+reasonably  be expected to have a material  adverse  effect on (a) the business,
+properties,   prospects,  condition  (financial  or  otherwise)  or  results  of
+operations of HGR taken as a whole (other than those events,  changes or effects
+resulting  from  general  economic  conditions  or the  industry in which HGR is
+engaged  generally)  or (b) the ability of HGR to  consummate  the  transactions
+contemplated hereby.
+
+line: 91"Certificate of Merger" shall have the meaning set forth in Section 1.01 of this
+Agreement.
+
+line: 91"Certificates"  shall  have the  meaning  set forth in  Section  1.05(a) of this
+Agreement.
+
+line: 91"TTI Common  Stock"  shall have the  meaning  set forth in the  recitals to this
+agreement.
+
+line: 99"TTI Common Stock  Equivalents" shall have the meaning set forth in Section 3.02
+of this Agreement.
+
+line: 587"TTI Material Adverse Effect" shall mean an event or change, individually, or in
+the aggregate with other events or changes, that could reasonably be expected to
+have a  material  adverse  effect on (a) the  business,  properties,  prospects,
+condition  (financial  or otherwise) or results of operations of TTI and the TTI
+Subsidiaries  taken as a whole  (other  than  those  events,  changes or effects
+resulting  from  general  economic  conditions  or the  industry in which TTI is
+engaged  generally)  or (b) the ability of TTI to  consummate  the  transactions
+contemplated hereby.
+
+line: 91"Closing  Date"  shall  have  the  meaning  set  forth in  Section  2.01 of this
+Agreement.
+
+line: 647"Contingent  Obligation"  as to any Person shall mean the undrawn face amount of
+any letters of credit  issued for the account of such Person and shall also mean
+any  obligation  of such Person  guaranteeing  or having the economic  effect of
+guaranteeing any  Indebtedness,  leases,  dividends,  letters of credit or other
+obligations ("Primary  Obligations") of any other Person (the "Primary Obligor")
+in any manner,  whether directly or indirectly,  including,  without limitation,
+any obligation of such Person,  whether or not  contingent,  (a) to purchase any
+such Primary Obligation or any property constituting direct or indirect security
+
+line: 786therefore, (b) to advance or supply funds (i) for the purchase or payment of any
+such Primary Obligation or (ii) to maintain working capital or equity capital of
+the Primary Obligor or otherwise to maintain the financial condition or solvency
+of the  Primary  Obligor,  (c) to  purchase  property,  securities  or  services
+primarily  for the  purpose  of  assuring  the  obligee  under any such  Primary
+Obligation of the ability of the Primary Obligor to make payment of such Primary
+Obligation,  or (d)  otherwise to assure or hold harmless the obligee under such
+Primary Obligation against loss in respect thereof; provided,  however, that the
+term  Contingent  Obligation  shall not include  endorsements of instruments for
+deposit or collection in the ordinary course of business.
+
+line: 429"Contracts"  shall  mean  all  contracts,   leases,  subleases,   notes,  bonds,
+mortgages,  indentures, Permits and Licenses,  non competition agreements, joint
+venture or partnership agreements,  powers of attorney, purchase orders, and all
+other  agreements,  arrangements  and other  instruments,  in each case  whether
+written or oral,  to which such Person is a party or by which any of them or any
+of its assets are bound.
+
+line: 1055"Conversion  Amount"  shall  mean  an  amount  equal  to a  prorata  portion  of
+29,000,000  shares of Common  Stock,  (29,000,000 / 100 x % of HGR common shares
+owned = shareholder  entitlement) and a prorata portion of each of 125,000 Class
+A Preferred  Convertible  Shares (having a conversion  ratio of one preferred to
+208 common TTI  shares;  and subject to the common  stock of the company  having
+traded at an average  bid price of $3.00 for ten  consecutive  trading  days) or
+after a period of Twelve  Months (12) from the date of issue,  whichever  occurs
+first.  and 125,000 Class B Convertible  Preferred  Shares  (having a conversion
+ratio of one  preferred  for 248 common TTI  shares;  and  subject to the common
+stock of the  company  having  traded at an  average  bid price of $7.00 for ten
+consecutive  trading  days) or twenty  four  (24)  months  after  date of issue,
+whichever is earlier  computed as follows  125,000 / 100 x % of common shares of
+HGR owned, = # of shares of stock receivable of TTI,  Preferred A, and Preferred
+B.
+
+line: 91"Effective  Time"  shall  have the  meaning  set forth in  Section  1.01 of this
+Agreement.
+
+line: 263"Governmental Approval" shall mean the consent, approval, order or authorization
+of, or registration, declaration or filing with any court, administrative agency
+or  commission  or other  Governmental  Entity,  authority  or  instrumentality,
+domestic or foreign.
+
+line: 436"Governmental  Entity" means the government of the United States of America, any
+other nation or any political  subdivision  thereof,  whether foreign,  state or
+local,  and any agency,  authority,  instrumentality,  regulatory  body,  court,
+tribunal,  arbitrator,  central  bank  or  other  entity  exercising  executive,
+legislative,  judicial, taxing, regulatory or administrative powers or functions
+of or pertaining to government.
+
+line: 2672"Indebtedness" shall mean as to any Person and whether recourse is secured by or
+is  otherwise  available  against  all or only a portion  of the  assets of such
+Person  and  whether  or not  contingent,  but  without  duplication:  (a) every
+obligation  of such  Person for money  borrowed;  (b) every  obligation  of such
+Person  evidenced  by bonds,  debentures,  notes or other  similar  instruments,
+including  obligations  incurred in connection with the acquisition of property,
+assets or  businesses;  (c) every  reimbursement  obligation of such Person with
+respect to letters of credit,  bankers' acceptances or similar facilities issued
+for the account of such Person;  (d) every  obligation  of such Person issued or
+assumed as the  deferred  purchase  price of  property  or  services  (including
+securities repurchase agreements but excluding trade accounts payable or accrued
+liabilities  arising in the ordinary  course of business which are not more than
+120 days  overdue  or which are being  contested  in good  faith by  appropriate
+proceedings  and for which  adequate  reserves  have been provided in accordance
+with  GAAP);  (e)  every  Capital  Lease  Obligation  of  such  Person;  (f) any
+obligation  of such Person to pay any  discount,  interest,  fees,  indemnities,
+penalties,  recourse,  expenses or other amounts in connection with any sales by
+such Person unless such sales are on a non recourse basis (as to collectability)
+of (i)  accounts or general  intangibles  for money due or to become  due,  (ii)
+chattel  paper,  instruments  or  documents  creating or  evidencing  a right to
+payment of money or (iii)  other  receivables,  whether  pursuant  to a purchase
+facility or otherwise,  other than in  connection  with the  disposition  of the
+business  operations  of  such  Person  relating  thereto  or a  disposition  of
+defaulted  receivables  for collection and not as a financing  arrangement;  (g)
+every obligation of such Person under any forward  contract,  futures  contract,
+swap,  option or other financing  agreement or arrangement  (including,  without
+limitation, caps, floors, collars and similar agreements), the value of which is
+dependent upon interest rates,  currency  exchange  rates,  commodities or other
+indices  (a  "derivative   contract");   (h)  every  obligation  in  respect  of
+Indebtedness of any other entity (including any partnership in which such Person
+is a general  partner) to the extent that such Person is liable  therefore  as a
+result of such Person's  ownership  interest in or other  relationship with such
+entity,  except to the extent that the terms of such  Indebtedness  provide that
+
+line: 196such  Person  is not  liable  therefore  and such  terms are  enforceable  under
+applicable law; and (i) every Contingent  Obligation of such Person with respect
+to Indebtedness of another Person.
+
+line: 262"Laws"  shall  mean all  foreign,  federal,  state  and  local  statutes,  laws,
+ordinances,   regulations,  rules,  resolutions,   orders,  writs,  injunctions,
+judgments and decrees  applicable to the specified  Person and to the businesses
+and assets thereof.
+
+line: 202"License" shall mean any franchise, authorization,  license, permit, certificate
+of occupancy, easement, variance, exemption, certificate, consent or approval of
+any Governmental Entity or other Person.
+
+line: 148"Lien" shall mean any mortgage,  pledge,  assessment,  security interest, lease,
+lien, adverse claim, levy, charge or other encumbrance of any kind.
+
+line: 299"Person" shall mean any  individual,  sole  proprietorship,  partnership,  joint
+venture,  trust,   unincorporated   organization,   limited  liability  company,
+association, corporation, institution, entity, party, Governmental Entity or any
+other juridical entity of any kind or nature whatsoever.
+
+line: 111"Post Closing  Tax  Period"  means a taxable  period (or portion  thereof)  that
+begins after the Closing Date.
+
+line: 96"Surviving  Corporation"  shall have the meaning set forth in Section 1.02(a) of
+this Agreement.
+
+line: 752"Subsidiary"  shall  mean  any  Person  in which  another  Person,  directly  or
+indirectly,  owns 50% of either the equity  interests  in or voting  control of,
+such Person.
+"Takeover  Proposal"  shall mean any  proposal  for a tender or exchange  offer,
+merger, consolidation,  sale of all or substantially all of such party's assets,
+sale of in excess of fifteen  percent  of the  shares of capital  stock or other
+business combination involving such party or any proposal or offer to acquire in
+any manner a  substantial  equity  interest  (including  any interest  exceeding
+fifteen percent of the equity  outstanding) in, or all or  substantially  all of
+the assets of,  such party  other  than the  transactions  contemplated  by this
+Agreement.
+
+line: 905"Taxes" means all federal,  state, county, local,  municipal,  foreign and other
+taxes, assessments, duties or similar charges of any kind whatsoever,  including
+all corporate franchise, income, gross receipts,  occupation,  windfall profits,
+sales, use, ad valorem,  value added,  profits, license,  withholding,  payroll,
+employment,  excise,  premium,  real property,  personal property,  customs, net
+worth, capital gains, transfer, stamp, documentary, social security, disability,
+environmental, alternative minimum, recapture and other taxes, and including all
+interest, penalties and additions imposed with respect thereto, whether disputed
+or not and including any obligations to indemnify or otherwise assume or succeed
+to the Tax liability of any Person, and any liability in respect of any Tax as a
+result of being a member of any affiliated, combined,  consolidated,  unitary or
+similar group.
+
+line: 204"Tax  Return"  means any  report,  return,  statement,  estimate,  informational
+return,  declaration or other written  information  required to be supplied to a
+taxing authority in connection with Taxes.
+
+line: 253"Taxing Authority" means any domestic, foreign, federal, national, state, county
+or municipal or other local government,  any subdivision,  agency, commission or
+authority  thereof,  or any  quasi governmental  body  exercising tax regulatory
+authority.
+
+line: 182IN WITNESS  WHEREOF,  the parties hereto have caused this Amended  Agreement and
+Plan of Merger and  Reorganization  to be duly  executed  as of the day and year
+first above written.
+
+line: 424Tombstone  Technologies  (OTCBB:  TMCI) today  announced  it has entered into an
+agreement to acquire the assets of Hunt Global Resources,  Inc., a Houston based
+company  focused on the use of new  technologies  to  maximize  the value of its
+natural  resources  projects.  The  transaction  is in  the  form  of a  reverse
+acquisition  wherein  Hunt Global  Resources  will be acquired as a wholly owned
+subsidiary of TMCI.
+
+line: 156Completion of this acquisition is predicated upon delivery and review of audited
+financial statements prepared in accordance with SEC Rules and Regulations.
+
+line: 435Based in Longmont,  Colo.,  Tombstone  Technologies provides innovative software
+solutions in the emerging  market for  Web to Print  applications.  Its flagship
+product, OIEPrint Suite, gives the power of online professional design, combined
+with order  management and e commerce  capabilities,  to mid sized  printers and
+their customers.  Full product  information and company details are available at
+www.tombstonetechnologies.com.
+
+line: 240Hunt Global owns surface  mining  rights to over 350 acres of land  northwest of
+Houston containing high grade sand and gravel. Approximately 60% of the reserves
+are industrial fracturing sands (frac sands) used by the oil and gas industry.
+
+line: 546Safe Harbor  Statement  under the Private  Securities  Litigation  Reform Act of
+1995:  Except for historical  information,  the matters  discussed in this press
+release contain forward looking statements that involve risks and uncertainties,
+including   but  not  limited  to  economic,   competitive,   governmental   and
+technological  factors  affecting  Tombstone   Technologies,   Inc.  operations,
+markets,  products  and  prices and other  factors  discussed  in the  Company's
+various filings with the Securities and Exchange Commission.
+
