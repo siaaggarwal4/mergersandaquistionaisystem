@@ -28,22 +28,22 @@ Think of it like:\ “Ctrl + F for legal risk — but smarter”\
 	•	what the clause is\
 	•	how risky it is
 
-Tech used
-	•	Flask (backend)
-    •	(React Frontend)
-	•	Legal-BERT (AI model)
-	•	PyTorch + HuggingFace 
+Tech used\
+	•	Flask (backend)\
+    •	(React Frontend)\
+	•	Legal-BERT (AI model)\
+	•	PyTorch + HuggingFace\
 	•	AWS EC2 (deployment)
 
-Why it matters
+Why it matters\
 
 Instead of manually reviewing everything, this helps:
-	•	spot risky contracts faster
-	•	focus on what actually matters
+	•	spot risky contracts faster\
+	•	focus on what actually matters\
 
 Future Improvements:
-    Edge cases to risk norms
-    Integrate features like risk calculation with agreement
+    Edge cases to risk norms\
+    Integrate features like risk calculation with agreement\
     Employee Data analysis
     Companies background information to score for mergers and agreement
     
