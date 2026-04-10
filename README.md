@@ -20,16 +20,13 @@ What it does
 
 How it works\
 
-Think of it like:\
-
-“Ctrl + F for legal risk — but smarter”\
+Think of it like:\ “Ctrl + F for legal risk — but smarter”\
 	1.	Contract → text\
 	2.	Text → clauses\
 	3.	AI model reads each clause\
 	4.	Outputs calculated on logic:\
 	•	what the clause is\
-	•	how risky it is\
-
+	•	how risky it is
 
 Tech used
 	•	Flask (backend)
