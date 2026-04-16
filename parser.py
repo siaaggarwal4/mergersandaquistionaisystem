@@ -2,7 +2,7 @@ import pytesseract
 import pymupdf as pdflib
 from PIL import Image
 import re
-
+pytesseract.pytesseract.tesseract_cmd = "/opt/anaconda3/bin/tesseract"
 def get_text(pdf):
     doc = pdflib.open(pdf)
     text = ""

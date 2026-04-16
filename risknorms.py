@@ -1,7 +1,7 @@
 def ris_norms(type, text):
     text=text.lower()
     s = 0
-    reason = ["reason for the score"]
+    reason = []
     
 
     if type == "Liability" or type == "Liability cap":
@@ -113,7 +113,7 @@ def ris_norms(type, text):
         if inchec("audit", text):
             s+=1
             reason.append("overly restriction")
-    
+    score=s
     print(s, reason)
     if s>= 3:
         s = "high"
@@ -125,8 +125,8 @@ def ris_norms(type, text):
         s="low"
     elif s==0:
         s = "risk not computed"
+    return s, reason, score
 
-    return s, reason
         #return "low" , reason   
     # return "mediuym"
 

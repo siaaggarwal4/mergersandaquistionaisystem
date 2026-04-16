@@ -13,7 +13,11 @@ Untitled10.ipynb
 *.code-workspace
 # Local History for Visual Studio Code
 .history/
- 
+line.txt
+clanalyze.txt
+AWSCLIV2.pkg
+
+
 # Common credential files
 **/credentials.json
 **/client_secrets.json
@@ -22,3 +26,4 @@ Untitled10.ipynb
 *.dat
 *password*
 *.httr-oauth*
+line.txt
