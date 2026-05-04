@@ -8,7 +8,6 @@ updating repo
 Reading hundreds of contracts during a merger is slow and easy to get wrong.
 I have built an AI system that reads contracts, extract and identify ttype of clauses and highlights risky with confidence.
 
-⸻
 
 ## What it does
 
@@ -22,9 +21,8 @@ I have built an AI system that reads contracts, extract and identify ttype of cl
     * restrictions and more ( 12 total!)
 * Shows a risk score + confidence
 
-⸻
 
-## How it works (_the_ simple idea)
+## How it works (_the simple_ idea)
 
 Think of it like:
 
@@ -36,8 +34,6 @@ Think of it like:
 4. Outputs:
     * what the clause is
     * how risky it is
-
-⸻
 
 ## **Tech used**
 
